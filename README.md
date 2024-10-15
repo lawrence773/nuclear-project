@@ -1,0 +1,1 @@
+The code presented here was my first attempt at analysing a larger dataset. The original version had interactive charts, but I had to rewrite the plotly express codes as Seaborn codes since GitHub could not display interactive charts. Some of Geopandas' map functions have also been deprecated, so I downloaded the maps and incorporated them manually into the code.
